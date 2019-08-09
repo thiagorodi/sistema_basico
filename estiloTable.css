@@ -1,0 +1,19 @@
+table{
+	border-collapse: collapse;
+    width: 100%;
+    color: rgb(0, 0, 0);
+	
+}
+
+table thead {
+    background-color: rgb(31, 224, 31);
+}
+
+/* linhas pares (even) */
+/*table tbody tr:nth-child(even) {	
+    background-color: rgb(255, 0, 0);
+}
+/* linhas ímpares (odd) */
+table tbody tr:nth-child(even) {
+    background-color: rgb(238, 223, 223);
+}

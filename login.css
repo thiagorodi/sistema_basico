@@ -1,0 +1,36 @@
+body{
+    min-height: 50vh;
+    background-image: url('../img/imgbody.jpg');
+    background-attachment:fixed;
+	background-size:120%;
+	background-repeat: no-repeat;
+	background-position:center;
+}
+
+.login-form{
+    padding: 59px 20px;
+    background-color: gray;
+    margin-top: 55vh;
+    transform: translateY(-50%);
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    text-transform: uppercase;
+    color:black;
+}
+
+.login-form h1{
+    text-align: center;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    text-transform: uppercase;
+    color:black;
+    
+
+}
+
+.login-form h2{
+    margin: 0 0 30px;
+    font-size: 1em;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    text-transform: uppercase;
+    color:black;
+}

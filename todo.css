@@ -1,0 +1,10 @@
+.logotipo
+{
+	padding: 50px;
+	margin-right: 50px;
+}
+
+.logotipo img
+{
+	background-image: url('../img/');
+}
